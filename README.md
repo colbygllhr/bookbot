@@ -1,2 +1,2 @@
 # bookbot
-A Python program that initializes any text
+A Python program that analyzes text and gives statistics
