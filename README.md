@@ -1,4 +1,4 @@
 # bookbot
 A Python program that analyzes text and gives statistics
 
-Bookbot is my first Python project!
+Bookbot is my first project!
